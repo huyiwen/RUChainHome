@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'RUChain',
-  domain: 'https://smoggy-gravity-872.notion.site/RUChain-ed09f60a70024960ac7dd9b75daedb39',
-  author: 'Ivan HU',
+  domain: 'https://huyiwen.notion.site/RUChain-ed09f60a70024960ac7dd9b75daedb39',
+  author: 'RUChain Dev',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'RUChain\'s homepage',
 
   // social usernames (optional)
   twitter: '',
